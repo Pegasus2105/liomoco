@@ -1,4 +1,4 @@
-# liomoco - my private linux iOptronmount commander
+# liomoco - my private linux iOptron mount commander
 ### GUI and model for iOptron astronomical mounts.
 
 This is only a	advance notice. The publication will be in the next time.
