@@ -13,7 +13,7 @@ firmware 210101 and later, GEM28 series and CEM26 series.
 Status: Alpha (experimental)
 ## Requirements
 1. python 3.10 or higher
-2. PyQt5 (QtCore, QtGui, QtWidgets,QTimer)
+2. PyQt5 (QtCore, QtGui, QtWidgets, QTimer)
 3. iOptron mount (CEM120 series, CEM70 series, GEM45 series with firmware 210101 and later, CEM40 series with
 firmware 210101 and later, GEM28 series and CEM26 series, CEM26 with GPS and without encoders tested)
 4. serial or WLAN connection to the mount
