@@ -19,7 +19,7 @@ Status: Alpha (experimental)
 firmware 210101 and later, GEM28 series and CEM26 series, CEM26 with GPS and without encoders tested)
 5. serial or WLAN connection to the mount
 ## Preview
-![alt text](image.jpg)
+![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/liomoco01.png)
 ## Citations and sources
 This project uses parts of other projects, or has implemented ideas shown in them, including:
 
