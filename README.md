@@ -27,6 +27,9 @@ firmware 210101 and later, GEM28 series and CEM26 series, tested with: CEM26 wit
 ## Preview
 ![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/picture/liomoco01.png)
 ![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/picture/liomoco02.png)
+![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/picture/liomoco03.png)
+![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/picture/liomoco04.png)
+![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/picture/setup.png)
 ## Citations and sources
 This project uses parts of other projects, or has implemented ideas shown in them, including:
 
