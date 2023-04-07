@@ -13,6 +13,7 @@ import serial
 import socket
 import logging
 import iOptronGUI
+from   dialoges import *
 
 
 class IoConnectionUSB:
@@ -27,6 +28,8 @@ class IoConnectionUSB:
         except serial.SerialException:
             logging.error('serial connection failed')
             self.mountIsConnected = False
+            info = PopupDialog('ERROR: USB', 'Serial connection failed.', 30, 'red')
+            info.exec()
             sys.exit(1)
 
     def isOpen(self):
@@ -80,12 +83,16 @@ class IoConnectionWlan:
             logging.error('WLAN connection failed')
             # MessageBox output
             self.mountIsConnected = False
+            info = PopupDialog('ERROR: WLAN', 'WLAN connection failed.', 30, 'red')
+            info.exec()
             sys.exit(1)
         except:
             e = sys.exc_info()[0]
             logging.error('WLAN connection failed')
             # MessageBox output
             self.mountIsConnected = False
+            info = PopupDialog('ERROR: WLAN', 'WLAN connection failed.', 30, 'red')
+            info.exec()
             sys.exit(1)
         else:
             logging.debug('WLAN is connected %s' + str(ipAddress) + ':' + str(port))
