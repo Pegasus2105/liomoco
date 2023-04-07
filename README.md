@@ -25,7 +25,8 @@ firmware 210101 and later, GEM28 series and CEM26 series, tested with: CEM26 wit
 4. go to the created folder
 5. type for start: python3 iOptronGUI.py
 ## Preview
-![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/liomoco01.png)
+![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/picture/liomoco01.png)
+![GUI preview](https://github.com/Pegasus2105/liomoco/blob/main/picture/liomoco02.png)
 ## Citations and sources
 This project uses parts of other projects, or has implemented ideas shown in them, including:
 
