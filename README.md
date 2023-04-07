@@ -16,7 +16,7 @@ Status: Alpha (experimental)
 2. PyQt5 (QtCore, QtGui, QtWidgets, QTimer)
 3. modul: pyserial
 4. iOptron mount (CEM120 series, CEM70 series, GEM45 series with firmware 210101 and later, CEM40 series with
-firmware 210101 and later, GEM28 series and CEM26 series, CEM26 with GPS and without encoders tested)
+firmware 210101 and later, GEM28 series and CEM26 series, tested with: CEM26 with GPS and without encoders under ubuntu)
 5. serial or WLAN connection to the mount
 ## Istallation
 1. make a new folder like: 'liomoco'
